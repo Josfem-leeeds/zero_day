@@ -10,7 +10,7 @@ Becoming a software engineer is not a joke because it takes a lot of time to lea
 ~~~~
   Checking how the preformatted text works also.
 ###Hot courses that you can learn
-1.Software Engineering
+1. Software Engineering
 * programing
 * data analysis
 * Artificial intelligence
